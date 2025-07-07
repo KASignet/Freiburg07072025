@@ -1,2 +1,2 @@
 print("Hallo Freiburg!")
-test
+print("Morgen sehen wir uns in Präsenz wieder")
